@@ -1,0 +1,12 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "javascript.validate.enable": false,
+    "prettier.parser": "flow",
+    "editor.formatOnSave": false,
+    "prettier.singleQuote": true,
+    "flow.useNPMPackagedFlow": true,
+    "search.exclude": {
+        "flow-typed": true
+    },
+    "vsicons.presets.angular": false
+}

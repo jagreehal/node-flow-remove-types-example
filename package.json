@@ -14,12 +14,12 @@
   },
   "author": "jagreehal",
   "devDependencies": {
-    "flow-bin": "^0.41.0",
+    "flow-bin": "^0.59.0",
     "flow-remove-types": "^1.2.0",
     "flow-typed": "^2.0.0",
-    "jest": "^19.0.2",
+    "jest": "^21.2.1",
     "nodemon": "^1.11.0",
-    "prettier": "0.21.0"
+    "prettier": "1.8.1"
   },
   "dependencies": {},
   "jest": {
